@@ -92,8 +92,8 @@ WHERE Year BETWEEN 2015 AND 2022
 ### 4. Metadata & Documentation
 - Documented all SQL cleaning and transformation steps in this README to ensure the process is **auditable** and **reproducible**.
 - Maintained clear naming conventions for tables:
-  - `uk_ghg_emissions_raw` — original imported dataset
-  - `uk_ghg_emissions_clean` — cleaned and standardised dataset ready for analysis.
+  - `uk_ghg_emissions_raw` - original imported dataset
+  - `uk_ghg_emissions_clean` - cleaned and standardised dataset ready for analysis.
 
 ---
 
@@ -137,7 +137,7 @@ WHERE
 - **Identified ~51.7% missing subsector data**, highlighting a major gap in UK emissions reporting.  
 - **Discovered transport as the highest-emitting sector (~9× average)**, indicating a critical area for targeted emissions reduction.  
 - **Identified power stations as the top emission source (99.1% CO₂ in their greenhouse gas profile)**, revealing heavy fossil fuel reliance.  
-- ![image.png](attachment:19f33f1a-7afc-4b4c-864f-385498623eff:image.png)  
+- ![image.png](view.png)  
 - Transport is the highest sector in terms of emissions in the UK and 9 times the average, making it a critical target for reduction policy.  
 - The bar chart of the fuel groups shows that the UK is still heavily reliant on fossil fuels/non-renewable energy (gaseous fuels and petroleum)  
 - Additionally, CH4, methane, is the second biggest contributor to global warming!
