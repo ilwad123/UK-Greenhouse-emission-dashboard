@@ -39,6 +39,8 @@ Check out the interactive dashboard on Looker Studio:
 - **Google BigQuery (Cloud Data Warehouse): stored dataset, cleaned and transformed data using SQL**
 - **SQL: performed data cleaning and transformation queries.**
 - **Google Looker Studio: built an interactive dashboard for insights.**
+
+View the SQL queries used in [sql/](./sql/) 
 ----
 ## Data Governance & Data Cleaning
 
