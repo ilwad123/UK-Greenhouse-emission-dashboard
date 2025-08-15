@@ -15,6 +15,10 @@ This project is based on the UK Greenhouse gas emissions for
 --- 
 ## Dashboard Screenshot 
 -![image](lookerstudio_dashboard.png) 
+
+Check out the interactive dashboard on Looker Studio:  
+[View Dashboard](https://lookerstudio.google.com/reporting/2defc0ea-6485-4813-a3a8-bca863a5b6b9)
+
 ----
 
 ## Dataset Summary
