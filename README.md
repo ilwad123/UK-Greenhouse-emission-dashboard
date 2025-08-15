@@ -1,9 +1,14 @@
+
 # UK Greenhouse emission dashboard 2015-2022
 
-Background: 
+## Background: 
 
-This project is based on the UK Greenhouse gas emissions for
+This project is based on the UK greenhouse gas emissions that contains emissions of greenhouse gases from 1990–2022, which contained sector data, subsector, fuel group, source, and emissions produced itself.
+There were more columns, but they were removed in the cleaning process.
+This was then zoomed in to specifically 5 years before COVID to the latest year of data (2022).
+This was then used to uncover trends in emission usage in different industries. It was also used to assess whether the UK is moving in the right direction in terms of renewable energy use. Another aim was to see if the reliance on fossil fuels has been consistently decreasing, and whether the UK has met the clean energy quota that they may have stated they would reach.
 
+----
 ## Project Goals
 
 - Analyse UK greenhouse gas emissions from 2015 to 2022 to identify major contributing sectors, sources, and fuel types.  
@@ -12,7 +17,7 @@ This project is based on the UK Greenhouse gas emissions for
 - Build an interactive dashboard to make findings accessible for policy, environmental, and public use.  
 - Apply data governance principles to ensure data accuracy, consistency, and reproducibility.
 
---- 
+----
 ## Dashboard Screenshot 
 -![image](lookerstudio_dashboard.png) 
 
