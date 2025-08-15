@@ -40,7 +40,8 @@ Check out the interactive dashboard on Looker Studio:
 - **SQL: performed data cleaning and transformation queries.**
 - **Google Looker Studio: built an interactive dashboard for insights.**
 
-View the SQL queries used in [sql/](./sql/) 
+- View the SQL queries used in [sql/](./sql/) 
+
 ----
 ## Data Governance & Data Cleaning
 
